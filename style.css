@@ -37,3 +37,18 @@ body {
 .comments {
   font-size: 1.5rem;
 }
+table tr td:nth-child(1) {
+  background-color: pink;
+}
+table tr td:nth-child(2) {
+  background-color: aqua;
+}
+table tr td:nth-child(3) {
+  background-color: lime;
+}
+table tr td:nth-child(4) {
+  background-color: red;
+}
+table tr td:nth-child(5) {
+  background-color: lightskyblue;
+}
