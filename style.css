@@ -30,3 +30,10 @@ body {
   text-align: left;
   vertical-align: top;
 }
+.table-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.comments {
+  font-size: 1.5rem;
+}
